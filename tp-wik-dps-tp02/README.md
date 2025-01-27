@@ -20,3 +20,4 @@ L'objectif principal est de respecter les bonnes pratiques Docker tout en minimi
 1. Une image Docker monolithique fonctionnelle pour l'API.
 2. Une image Docker multi-stage, plus légère et adaptée à la production.
 3. Un rapport des vulnérabilités détectées par un outil de scan.
+
